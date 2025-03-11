@@ -1,0 +1,53 @@
+/* Общие стили */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  p {
+    color: #666;
+  }
+  
+  /* Стили для шапки */
+  header {
+    background-color: lightgray;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  /* Стили для основного содержимого */
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  /* Стили для подвала */
+  footer {
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
+  }
+  
